@@ -1,2 +1,2 @@
 #My first R script for Github
-x<-c("Voila")
+x<-matrix(1:6,2,3)
